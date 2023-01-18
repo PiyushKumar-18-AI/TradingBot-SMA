@@ -2,7 +2,7 @@
 *****
 ## Introduction:
 
-This repository contains the code for a trading bot that utilizes the Simple Moving Average (SMA) strategy for making trades. The bot is designed to work with the [Exchange Name] trading platform and can be configured to trade on any cryptocurrency pair.
+This repository contains the code for a trading bot that utilizes the Simple Moving Average (SMA) strategy for making trades. The bot is designed to work with the Phemex trading platform and can be configured to trade on any cryptocurrency pair.
 
 ## Technologies used:
 
